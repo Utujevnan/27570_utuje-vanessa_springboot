@@ -94,7 +94,7 @@ This is a RESTful API assignment implementing Complete CRUD (Create, Read, Updat
 
 ## Test Results Summary
 
-✅ All CRUD operations tested successfully:
+All CRUD operations tested successfully:
 - POST: Product creation ✓
 - GET: Product retrieval (single & all) ✓
 - PUT: Product update ✓
