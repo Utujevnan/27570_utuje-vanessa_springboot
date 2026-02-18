@@ -29,23 +29,23 @@ This is a RESTful API assignment implementing Complete CRUD (Create, Read, Updat
 ## Testing Screenshots
 
 ### 1. POST Request - Create Product
-![POST Request](../screenshots/post%20request.png)
+![POST Request](screenshots/post%20request.png)
 *Creating a new product with ID 4 - Laptop Pro*
 
 ### 2. GET Request - Retrieve by ID
-![GET by ID](../screenshots/get%20by%20id.png)
+![GET by ID](screenshots/get%20by%20id.png)
 *Retrieving product details by product ID*
 
 ### 3. GET Request - Retrieve All Products
-![GET All](../screenshots/get%20all.png)
+![GET All](screenshots/get%20all.png)
 *Fetching all products from the database*
 
 ### 4. PUT Request - Update Product
-![PUT Update](../screenshots/put%20update.png)
+![PUT Update](screenshots/put%20update.png)
 *Updating product information - changing price, quantity, and description*
 
 ### 5. DELETE Request - Remove Product
-![DELETE](../screenshots/delete.png)
+![DELETE](screenshots/delete.png)
 *Deleting a product by ID*
 
 ---
